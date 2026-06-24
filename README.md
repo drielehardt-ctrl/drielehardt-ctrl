@@ -1,12 +1,8 @@
-<img width="676" height="86" alt="image" src="https://github.com/user-attachments/assets/744853df-8440-4f28-9da4-8ee73b0ca416" />
+<img width="842" height="607" alt="image" src="https://github.com/user-attachments/assets/5c83433b-98c2-494f-af5c-11ef5e9f296f" />
 
-jornada
-2025.1 — HTML, CSS e JavaScript
-2025.2 — Python e SQL
-2026.1 — Machine Learning · 1 ano de faculdade em 21/07 🎉
-2026.2 — Desenvolvimento Back-End (em breve)
+<img width="467" height="32" alt="image" src="https://github.com/user-attachments/assets/b8b02142-ed74-48f9-94ea-da71d4127da3" />
 
-📚 próximo bloco — back-end
-▸ Java e C# (fundamentos)
-▸ Spring Boot (serviços web)
-▸ .NET com bases de dados
+https://www.linkedin.com/in/driele-hardt
+
+<img width="193" height="56" alt="image" src="https://github.com/user-attachments/assets/656b83b7-94f8-4c5b-8a2a-4883c51a3ce9" />
+
