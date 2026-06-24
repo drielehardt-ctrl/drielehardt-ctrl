@@ -1,16 +1,12 @@
-## Hi there 👋
+<img width="676" height="86" alt="image" src="https://github.com/user-attachments/assets/744853df-8440-4f28-9da4-8ee73b0ca416" />
 
-<!--
-**drielehardt-ctrl/drielehardt-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jornada
+2025.1 — HTML, CSS e JavaScript
+2025.2 — Python e SQL
+2026.1 — Machine Learning · 1 ano de faculdade em 21/07 🎉
+2026.2 — Desenvolvimento Back-End (em breve)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 próximo bloco — back-end
+▸ Java e C# (fundamentos)
+▸ Spring Boot (serviços web)
+▸ .NET com bases de dados
